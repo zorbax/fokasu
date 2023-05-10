@@ -102,12 +102,6 @@ function popup() {
 function popup2() {
     $(".page-wrapper2").fadeIn(400);
 }
-//$(".pop > span").click(function () {
-//    $(".page-wrapper").fadeOut(300);
-//    $(".pop").fadeOut(300);
-//
-//});
-
 
 var audio = $('#clickSound')[0];
 function audioPlay() {
